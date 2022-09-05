@@ -1,4 +1,4 @@
-# become a Software Professional 
+# become a Software Professional
 
 # WEEK 01
 
@@ -11,6 +11,12 @@ We made a page for the company GigaTech Software Solutions SA, so we started doi
 ```
 i am working in document html the page for the company GigaTech Software Solutions SA.
 ```
+## WEEK-03
+
+```
+Style was added to the html document for the company page GigaTech Software Solutions SA.
+```
+
 ## Authors
 ```
 - Andy Inzua
