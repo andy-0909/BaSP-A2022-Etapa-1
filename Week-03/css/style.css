@@ -76,6 +76,10 @@ h1{
     padding-left: 257px;
     height: 40px;
 }
+.first-title{
+    font-size: 10px;
+    padding: 35px;
+}
 .p-0{
 width: 233px;
 font-family: 'Roboto';
@@ -222,7 +226,13 @@ form, .section-4{
     padding: 2px;
 
 }
-
+.img-people{
+    float: left;
+    width: 30%;
+}
+.lorem{
+    text-align: justify;
+}
 .section-5{
     display:flex;
     margin-left: 261px;
@@ -230,7 +240,6 @@ form, .section-4{
 }
 .sect-product, .sect-company, .sect-support{
     margin-left: 100px;
-    text-align: center;
 }
 footer{
     margin-left: 261px;
@@ -239,4 +248,9 @@ footer{
 
 .text-footer{
     font-size: 10px;
+}
+
+.img-icon{
+    padding: 10px;
+    margin: 10px;
 }
