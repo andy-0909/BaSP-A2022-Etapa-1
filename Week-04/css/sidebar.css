@@ -1,0 +1,52 @@
+.navbar{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 25%;
+    justify-content: flex-start;
+    margin-top: 0%;
+}
+
+.search{
+    background-color: teal;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    border-radius: 10px;
+    border: 1px solid #49A37B;
+    padding: 10px;
+    width: 16%;
+    margin-left: 11px;
+    color: #ffffff;
+}
+
+.section-menu{
+    background-color: antiquewhite;
+}
+
+.list{
+    background-color: aqua;
+}
+
+.home{
+    background-color: beige;
+}
+
+.sing-up{
+    background-color: blueviolet;
+}
+
+.log-in{
+    background-color: brown;
+}
+
+.title-0{
+    background-color: thistle;
+}
+.p-0{
+    background-color: hotpink;
+}
+
+.address{
+    background-color: khaki;
+}

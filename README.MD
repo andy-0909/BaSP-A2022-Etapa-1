@@ -16,7 +16,11 @@ i am working in document html the page for the company GigaTech Software Solutio
 ```
 Style was added to the html document for the company page GigaTech Software Solutions SA.
 ```
+## WEEK-04
 
+```
+the html file was styled with flexbox.
+```
 ## Authors
 ```
 - Andy Inzua
