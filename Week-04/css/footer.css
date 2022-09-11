@@ -1,0 +1,16 @@
+footer {
+    margin: auto;
+    margin-left: 0px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.text-footer {
+    font-size: 10px;
+}
+
+.img-icon {
+    padding: 5px;
+    margin: 5px;
+}

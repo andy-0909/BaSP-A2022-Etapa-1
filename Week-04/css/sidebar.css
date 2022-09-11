@@ -1,52 +1,46 @@
-.navbar{
+.navbar {
+    display: none;
     background-color: bisque;
-    display: flex;
-    flex-direction: column;
-    height: auto;
-    width: 25%;
-    justify-content: flex-start;
-    margin-top: 0%;
 }
-
-.search{
-    background-color: teal;
+.search {
     margin-top: 20px;
     margin-bottom: 1px;
     border-radius: 10px;
+    margin-left: 11px;
     border: 1px solid #49A37B;
     padding: 10px;
-    width: 16%;
-    margin-left: 11px;
     color: #ffffff;
+    background-color: #262862;
 }
 
-.section-menu{
+.section-menu {
     background-color: antiquewhite;
 }
 
-.list{
+.list {
     background-color: aqua;
 }
 
-.home{
+.home {
     background-color: beige;
 }
 
-.sing-up{
+.sing-up {
     background-color: blueviolet;
 }
 
-.log-in{
+.log-in {
     background-color: brown;
 }
 
-.title-0{
+.title-0 {
     background-color: thistle;
 }
-.p-0{
+
+.p-0 {
     background-color: hotpink;
 }
 
-.address{
+.address {
     background-color: khaki;
 }
