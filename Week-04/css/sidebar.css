@@ -1,46 +1,91 @@
 .navbar {
     display: none;
-    background-color: bisque;
-}
-.search {
-    margin-top: 20px;
-    margin-bottom: 1px;
-    border-radius: 10px;
-    margin-left: 11px;
-    border: 1px solid #49A37B;
-    padding: 10px;
-    color: #ffffff;
-    background-color: #262862;
 }
 
-.section-menu {
-    background-color: antiquewhite;
-}
+@media (min-width: 1024px) {
+    .navbar {
+        position: relative;
+        display: inline-block;
+        background-color: #262862;
+        width: 20%;
+        float: left;
+        height: 2270px;
+    }
 
-.list {
-    background-color: aqua;
-}
+    .search {
+        margin-top: 20px;
+        margin-bottom: 1px;
+        border-radius: 10px;
+        margin-left: 11px;
+        border: 1px solid #49A37B;
+        padding: 10px;
+        color: #ffffff;
+        background-color: #262862;
+    }
 
-.home {
-    background-color: beige;
-}
+    .section-menu {
+        position: relative;
+        display: inline-block;
+        float: left;
+    }
 
-.sing-up {
-    background-color: blueviolet;
-}
+    .list {
+        display: flex;
+        flex-direction: column;
+    }
 
-.log-in {
-    background-color: brown;
-}
+    .home {
+        margin: 15px;
+        border-bottom: 1px solid #49A37B;
+        font-size: 14px;
+        color: #ffffff;
+        font-style: normal;
+        align-items: center;
+        background-color: #262862;
+    }
 
-.title-0 {
-    background-color: thistle;
-}
+    .sing-up {
+        margin: 15px;
+        color: #ffffff;
+        border-bottom: 1px solid #49A37B;
+        font-size: 15px;
+        font-style: normal;
+        align-items: center;
+    }
 
-.p-0 {
-    background-color: hotpink;
-}
+    .log-in {
+        margin: 15px;
+        color: #ffffff;
+        border-bottom: 1px solid #49A37B;
+        font-size: 15px;
+        font-style: normal;
+        align-items: center;
+    }
 
-.address {
-    background-color: khaki;
+    .title-0 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 20px;
+        line-height: 10px;
+        border-bottom: 2px solid #49A37B;
+        padding: 13px;
+    }
+
+    .image-1,
+    .image-2,
+    .image-3 {
+        height: 25px;
+        float: left;
+    }
+
+    .p-address {
+        color: #ffffff;
+        font-size: 12px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin: 25px;
+        border-bottom: 1px solid #49A37B;
+        padding: 10px;
+    }
 }

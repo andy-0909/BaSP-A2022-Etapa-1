@@ -1,10 +1,5 @@
-.menu {
-    float: left;
-    margin-top: 20px;
-}
-
 .header {
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
     margin-left: 50px;
     background-color: #373867;
@@ -16,3 +11,23 @@
     text-decoration: overline 3px #49A37B;
 
 }
+
+@media (min-width: 1024px){
+    .menu{
+        display: inline;
+    }
+    .header {
+        display:inline;
+        margin: auto;
+        font-size: 40px;
+        line-height: 10px;
+        border-bottom: 4px solid #49A37B;
+        padding-left: 20px;
+        height: 40px;
+    }
+    .first-title{
+        font-size: 10px;
+        margin-left: 30px;
+        text-decoration: none;
+    }
+    }
