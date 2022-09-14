@@ -19,7 +19,7 @@ Style was added to the html document for the company page GigaTech Software Solu
 ## WEEK-04
 
 ```
-the html file was styled with flexbox.
+The html file was styled with flexbox to attach it to different devices.
 ```
 ## Authors
 ```
